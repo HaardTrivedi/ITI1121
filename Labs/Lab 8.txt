@@ -1,0 +1,6 @@
+Haard Trivedi
+300021545
+ITI 1121 - C
+March 16, 2018
+
+Answer: 1 because the front is designated as the first element and the every time a new element is added it foes to the end of the array. So the only variable that needs to be changed constantly is front and the elements only needs to be sifted to the left at the end or every dequeue.
